@@ -19,7 +19,7 @@ function home() {
       explore msytry message from around the world
     </p>
   </section>
-  <Carousel 
+  <Carousel
   plugins={[Autoplay({ delay: 2500 })]}
   className="w-full max-w-xs">
       <CarouselContent>
