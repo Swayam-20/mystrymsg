@@ -9,3 +9,4 @@ export interface ToastProps {
   onOpenChange?: (open: boolean) => void
   variant?: "default" | "destructive"
 }
+
