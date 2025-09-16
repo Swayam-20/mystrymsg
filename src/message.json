@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Welcome Message",
+        "content": "Hello! How can I assist you today?",
+        "recieved": "true"
+    },
+    {
+        "title": "Follow-up Message",
+        "content": "Is there anything else you would like to know?",
+        "recieved": "false"
+    },
+    {
+        "title": "Closing Message",
+        "content": "Thank you for chatting with us. Have a great day!",
+        "recieved": "true"
+    }
+]
